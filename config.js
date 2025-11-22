@@ -1,0 +1,23 @@
+export const nameBand = 'LUDWIG VAN BEETHOVEN';
+export const nameSongs = [
+	"SYMPHONY NO.9", /*1*/
+	"FÜR ELISE", /*2*/
+	"CLARO DE LUNA", /*3*/
+	"ODE TO JOY", /*4*/
+	"SYMPHONY NO. 5", /*5*/
+	"ODE AN DIE FREUDE", /*6*/
+	"LETTRE À ELISE", /*7*/
+	"MOONLIGHT", /*8*/
+	"BEETHOVEN 'S FUNERAL MARCH", /*9*/
+	"CELLO SONATA NO. 3", /*10*/
+	"RAGE OVER A LOST PENNY", /*11*/
+	"SYMPHONY NO. 9 - CHORAL", /*12*/
+	"ICH LIEBE DICH", /*13*/
+	"MOONLIGHT SONATA PT. III", /*14*/
+	"EROICA", /*15*/
+	"SONATA NO 9 E-MAJOR", /*16*/
+	"ADELAIDE", /*17*/
+	"ANDANTE FAVORI IN F", /*18*/
+	"CHORAL FANTASY", /*19*/
+	"ALLEGRO CON BRIO", /*20*/
+]
